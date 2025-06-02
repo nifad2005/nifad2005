@@ -7,7 +7,7 @@
 
 ### 🧭 Founder at [NOORIX](https://noorix.vercel.app/)
 
->**NOORIX** is an experimental tech startup where **X & I (Experimentation & Innovation)** drive every build.  
+**NOORIX** is an experimental tech startup where **X & I (Experimentation & Innovation)** drive every build.  
 
 ---
 
