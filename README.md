@@ -8,16 +8,13 @@
 ### 🧭 Founder at [NOORIX](https://noorix.vercel.app/)
 
 **NOORIX** is an experimental tech startup where **X & I (Experimentation & Innovation)** drive every build.  
-The focus is on building small, creative, and often "weird" tech projects that spark innovation from minimal ideas.
 
 ---
 
 ### 🚀 Overview
 
-Md Nifad Uzzaman is a dedicated web developer with a deep love for building modern web interfaces using **Next.js**, **TypeScript**, **TailwindCSS**, and **MongoDB**.  
-He’s highly passionate about **Python-based problem solving and prototyping**, and regularly explores cutting-edge fields like **Machine Learning** and **Quantum Computing**.  
-
-Beyond tech, he's a lifelong **book lover**, spiritually grounded, and guided by strong personal principles.
+Md Nifad Uzzaman is a passionate web developer focused on building modern interfaces using Next.js, TypeScript, TailwindCSS, and MongoDB.  
+Also exploring Machine Learning and Quantum Computing. Works with Flutter when needed and  highly passionate about **Python based projects**.
 
 ---
 
