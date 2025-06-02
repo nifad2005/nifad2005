@@ -5,13 +5,13 @@
 
 ---
 
-### 🧭 Founder at [NOORIX](https://noorix.vercel.app/)
+### 💡 Founder at [NOORIX](https://noorix.vercel.app/)
 
 **NOORIX** is an experimental tech startup where **X & I (Experimentation & Innovation)** drive every build.  
 
 ---
 
-### 🚀 Overview
+### ✨ Overview
 
 Passionate web developer focused on building business standard websites.  
 Also exploring Machine Learning and Quantum Computing. Works with Flutter when needed and  highly passionate about **Python based projects**.
