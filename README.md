@@ -1,14 +1,18 @@
-# 👋 Hi, I'm Nifad
-🚀 I love building web apps and experimenting with new tech.
+# Nifad Uzzaman
 
-## 🛠️ Skills
-- React | Next.js | Node.js
-- Python | Flask
-- Firebase | MongoDB
+Tech explorer. Focused on innovation, UI systems & building useful tools.  
+Working with React, Next.js, Python & experimental web tech.
 
-## 📈 GitHub Stats
-![Nifad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nifaduzzaman&show_icons=true&theme=transparent)
+## Highlights
+- 🔧 Creator of [Noorix](https://github.com/noorix-dev) — Experimental tech lab
+- 🧩 UI Component Library [Soon]
+- 🔍 Researching AI, ML & Quantum Computing
 
-## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-orange)](https://yourwebsite.com)
+## Skills
+React · Next.js · TailwindCSS · Node.js · Flask · PostgreSQL · Firebase
+
+## GitHub Stats
+![Nifad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nifaduzzaman&show_icons=true&theme=default)
+
+## Links
+[Portfolio](https://your-portfolio-link.com) · [LinkedIn](https://linkedin.com/in/your-profile) · [Twitter](https://twitter.com/yourhandle)
