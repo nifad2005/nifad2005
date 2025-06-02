@@ -1,14 +1,23 @@
 <h1 align="center">Md Nifad Uzzaman</h1>
 <p align="center">
-  Web Developer • ML & Quantum Explorer • Founder at <a href="https://noorix.vercel.app/" target="_blank">NOORIX</a>
+  Founder at <a href="https://noorix.vercel.app/" target="_blank">NOORIX</a> • Web Developer • Book Lover • Python Enthusiast
 </p>
+
+---
+
+### 🧭 Founder at [NOORIX](https://noorix.vercel.app/)
+
+**NOORIX** is an experimental tech startup where **X & I (Experimentation & Innovation)** drive every build.  
+The focus is on building small, creative, and often "weird" tech projects that spark innovation from minimal ideas.
 
 ---
 
 ### 🚀 Overview
 
-Md Nifad Uzzaman is a passionate web developer focused on building modern interfaces using Next.js, TypeScript, TailwindCSS, and MongoDB.  
-Also exploring Machine Learning and Quantum Computing. Works with Flutter and Python when needed.
+Md Nifad Uzzaman is a dedicated web developer with a deep love for building modern web interfaces using **Next.js**, **TypeScript**, **TailwindCSS**, and **MongoDB**.  
+He’s highly passionate about **Python-based problem solving and prototyping**, and regularly explores cutting-edge fields like **Machine Learning** and **Quantum Computing**.  
+
+Beyond tech, he's a lifelong **book lover**, spiritually grounded, and guided by strong personal principles.
 
 ---
 
@@ -25,13 +34,7 @@ Also exploring Machine Learning and Quantum Computing. Works with Flutter and Py
 
 - Web: Next.js, TypeScript, TailwindCSS, Redux, Firebase, Express.js, MongoDB  
 - Mobile: Flutter (basic)  
-- Others: Python, Java (basic)
-
----
-
-### 🧭 Founder at [NOORIX](https://noorix.vercel.app/)
-
-**NOORIX** is an experimental tech startup where **X & I (Experimentation & Innovation)** is the foundation of every build.
+- Others: Python (preferred), Java (basic)
 
 ---
 
@@ -44,4 +47,4 @@ Also exploring Machine Learning and Quantum Computing. Works with Flutter and Py
 
 ---
 
-> Spiritually grounded • Book lover • Traveler • Resilient soul
+> Book Lover • Spiritually Grounded • Passionate Traveler • Resilient Soul
