@@ -1,13 +1,13 @@
 <h1 align="center">Md Nifad Uzzaman</h1>
 <p align="center">
-  Founder at <a href="https://noorix.vercel.app/" target="_blank">NOORIX</a> • Web Developer • Book Lover • Python Enthusiast
+  Founder at <a href="https://noorix.vercel.app/" target="_blank">NOORIX</a> • Web Developer • Book Lover • ML & Quantum Explorer
 </p>
 
 ---
 
 ### 🧭 Founder at [NOORIX](https://noorix.vercel.app/)
 
-**NOORIX** is an experimental tech startup where **X & I (Experimentation & Innovation)** drive every build.  
+>**NOORIX** is an experimental tech startup where **X & I (Experimentation & Innovation)** drive every build.  
 
 ---
 
