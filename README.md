@@ -1,6 +1,6 @@
 <h1 align="center">Md Nifad Uzzaman</h1>
 <p align="center">
-  Founder at <a href="https://noorix.vercel.app/" target="_blank">NOORIX</a> • Web Developer • Book Lover • ML & Quantum Explorer
+  Founder at NOORIX • Web Developer • Book Lover • ML & Quantum Explorer
 </p>
 
 ---
