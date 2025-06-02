@@ -13,7 +13,7 @@
 
 ### 🚀 Overview
 
-Md Nifad Uzzaman is a passionate web developer focused on building modern interfaces using Next.js, TypeScript, TailwindCSS, and MongoDB.  
+Passionate web developer focused on building business standard websites.  
 Also exploring Machine Learning and Quantum Computing. Works with Flutter when needed and  highly passionate about **Python based projects**.
 
 ---
